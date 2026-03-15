@@ -443,3 +443,9 @@ All old .xsq and .fseq files are fully compatible with this light show update. Y
 
     <img src="/images/convert_render_all.png?raw=true" width="300" />
 
+## Using ChatGPT to brainstorm light shows
+ChatGPT can help you come up with choreography ideas or resolve issues you encounter while building your show. Example prompts include:
+- "Suggest a series of lighting effects that sync with fast-paced music"
+- "Explain how to create a sweeping effect across multiple cars"
+- "How can I troubleshoot if the FSEQ fails validation?"
+Remember to run `python3 -m py_compile validator.py` to ensure the validator still works.

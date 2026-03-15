@@ -15,12 +15,12 @@ This guide assumes that you have already setup the global xLights settings and r
     <img src="/images/view_all_cars.png?raw=true" width="600" />
 
 ## Layout
-- In the preview, you will find five Cybertruck's in a row with five Model S' stacked above them. This accomodates all lights and closures for all 
+- In the preview, you will find five Cybertrucks in a row with five Model S vehicles stacked above them. This accommodates all lights and closures for all
 vehicle types. It's recommended to resize or move the preview to fit all cars.
 
     <img src="/images/preview_moved.png?raw=true" width="1000" />
 
-- Each Cybertruck / Model S combination has it's own number. When viewed from the front, the cars are numbered 1 to 5 from Left to Right.
+- Each Cybertruck / Model S combination has its own number. When viewed from the front, the cars are numbered 1 to 5 from left to right.
 
     <img src="/images/car_setup.jpg?raw=true" width="800" />
 
